@@ -6,7 +6,9 @@ public class conditionalif {
 	    int time = 2;
 	    if (time < 18) {
 	      System.out.println("Good day.");
-	    System.out.println("Good day.");}
+	    System.out.println("Good day.");
+	    System.out.println("Hi guys");
+	    }
 	     else {
 	      System.out.println("Good evening.");
 	    }  
